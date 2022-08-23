@@ -1,0 +1,123 @@
+ .u-section-1 {
+  background-image: url("images/grunge-wood-panels-texture_174699-4.jpg");
+  background-position: 50% 50%;
+  min-height: 740px;
+}
+
+.u-section-1 .u-map-1 {
+  width: calc(((100% - 1140px) / 2) + 543px);
+  left: auto;
+  right: 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 570px;
+  margin: 60px auto 60px calc(((100% - 1140px) / 2) + -66px);
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 452px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: none;
+  font-size: 3rem;
+  margin: 55px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 11px 0 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  white-space: nowrap;
+  height: 45px;
+  min-height: 16px;
+  width: 175px;
+  min-width: 88px;
+  margin: 27px auto 0 0;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 610px;
+  }
+
+  .u-section-1 .u-map-1 {
+    width: calc(((100% - 940px) / 2) + 543px);
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    width: 174px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 115px;
+  }
+
+  .u-section-1 .u-map-1 {
+    width: calc(((100% - 720px) / 2) + 543px);
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-map-1 {
+    width: calc(((100% - 540px) / 2) + 540px);
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-map-1 {
+    width: calc(((100% - 340px) / 2) + 340px);
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+}
