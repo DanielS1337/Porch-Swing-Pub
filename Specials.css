@@ -21,7 +21,7 @@
 .u-section-1 .u-image-2 {
   width: 300px;
   height: 300px;
-  background-image: url("images/IMG_0623.jpg");
+  background-image: url("images/IMG_2584.jpg");
   background-position: 50% 50%;
   margin: 295px auto 0;
 }
@@ -37,56 +37,56 @@
 }
 
 .u-section-1 .u-container-layout-2 {
-  padding: 30px 59px;
+  padding: 30px 41px;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 3.75rem;
-  margin: 123px 1px 0;
+  margin: 123px 19px 0;
 }
 
 .u-section-1 .u-text-3 {
   font-weight: 400;
-  margin: 31px 288px 0 24px;
+  margin: 31px 306px 0 42px;
 }
 
 .u-section-1 .u-text-4 {
   font-size: 1.125rem;
   line-height: 1.8;
-  margin: 0 243px 0 24px;
+  margin: 0 261px 0 42px;
 }
 
 .u-section-1 .u-text-5 {
   font-weight: 400;
-  margin: 11px 218px 0 24px;
+  margin: 11px 236px 0 42px;
 }
 
 .u-section-1 .u-text-6 {
   font-size: 1.125rem;
   line-height: 1.8;
-  margin: 1px 157px 0 24px;
+  margin: 0 189px 0 42px;
 }
 
 .u-section-1 .u-text-7 {
   font-weight: 400;
-  margin: 11px 144px 0 24px;
+  margin: 11px 162px 0 42px;
 }
 
 .u-section-1 .u-text-8 {
   font-size: 1.125rem;
   line-height: 1.8;
-  margin: 0 185px 0 24px;
+  margin: 1px 203px 0 42px;
 }
 
 .u-section-1 .u-text-9 {
   font-weight: 400;
-  margin: 11px 255px 0 24px;
+  margin: 11px 273px 0 42px;
 }
 
 .u-section-1 .u-text-10 {
   font-size: 1.125rem;
   line-height: 1.8;
-  margin: 0 171px 0 24px;
+  margin: 0 189px 0 42px;
 }
 
 @media (max-width: 1199px) {
@@ -121,8 +121,8 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-left: 0;
     margin-right: 178px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-4 {
@@ -136,23 +136,25 @@
   }
 
   .u-section-1 .u-text-6 {
+    margin-top: -249px;
+    margin-right: 98px;
     margin-left: 0;
-    margin-right: 47px;
   }
 
   .u-section-1 .u-text-7 {
+    margin-top: 274px;
+    margin-right: 71px;
     margin-left: 0;
-    margin-right: 35px;
   }
 
   .u-section-1 .u-text-8 {
-    margin-right: 76px;
+    margin-right: 112px;
     margin-left: 0;
   }
 
   .u-section-1 .u-text-9 {
-    margin-left: 0;
     margin-right: 145px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-10 {
@@ -259,6 +261,14 @@
 
   .u-section-1 .u-text-4 {
     width: auto;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-top: 11px;
   }
 }
 
